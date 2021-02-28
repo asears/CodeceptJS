@@ -338,6 +338,6 @@ async setPermissions() {
 }
 ```
 
-> [▶ Learn more about BrowserContext](https://github.com/microsoft/playwright/blob/master/docs/api.md#class-browsercontext)
+> [▶ Learn more about BrowserContext](https://github.com/microsoft/playwright/blob/master/docs/src/api/class-browsercontext.md)
 
 > [▶ Learn more about Helpers](http://codecept.io/helpers/)
